@@ -1,23 +1,23 @@
 # bigyandhimal.github.io
-# Hi, I'm Bigyan Dhimal..👋
+Hi, I'm Bigyan Dhimal..👋
 
-**About Me**
+*About Me:
 - 💼"Beginner based in Bhaktapur"
-- 🛠️ Skills:Just a beginner..
+- 🛠️ Skills:Learning..
 
 ---
 
-## ⭐ Featured Projects
+⭐ Featured Projects
 
-### [Project One]:Soon
+[Project One]:Soon
 - 
 
-### [Project Two]:Soon 
+[Project Two]:Soon 
 - 
 
 ---
 
-## 📫 Get in Touch
+📫 Get in Touch
 - Email:bigyandhimal20@gmail.com
-- LinkedIn:
-- Portfolio:
+- LinkedIn:Soon 
+- Portfolio:Soon
